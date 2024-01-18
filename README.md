@@ -1,0 +1,1 @@
+This repository consists of several Machine Learning projects that I have completed during my coursework of Master's degree in Computer Science. Additionally, it also consists of Master's degree thesis research for speech spearation of mixed audio clips. 
