@@ -1,0 +1,27 @@
+def print_function(best_features_list: list, metrices_list: list, averages: dict, k: int):
+    print('ACTIVITY 8\n')
+    for i in range(k):
+        best_features = best_features_list[i]
+        metrices = metrices_list[i]
+        print(f'FOR TEST DATA {i + 1}:')
+        print('Genetic mutations selected are:')
+        print(f"->The best feature F: {best_features[0]['feature'][:8]}    Gain Value: {best_features[0]['gain']}")
+        print(f"->The best feature A: {best_features[1]['feature'][:8]}    Gain Value: {best_features[1]['gain']}")
+        print(f"->The best feature B: {best_features[2]['feature'][:8]}    Gain Value: {best_features[2]['gain']}")
+        print('\nCalculated Metrices are:')
+        print(f'->TP: {metrices["tp"]}, FP: {metrices["fp"]}, TN: {metrices["tn"]}, FN: {metrices["fn"]}')
+        print(f'->Accuracy: {metrices["accuracy"]}%')
+        print(f'->Sensitivity: {metrices["sensitivity"]}%')
+        print(f'->Specificity: {metrices["specificity"]}%')
+        print(f'->Precision: {metrices["precision"]}%')
+        print(f'->Miss rate: {metrices["miss_rate"]}%')
+        print(f'->False discovery rate: {metrices["fdr"]}%')
+        print(f'->False omission rate: {metrices["fomr"]}%\n')
+    print('\nThe calculated averages of the metrices from all of the test samples are:')
+    print(f'->Average Accuracy: {averages["avg_accuracy"]}%')
+    print(f'->Average Sensitivity: {averages["avg_sensitivity"]}%')
+    print(f'->Average Specificity: {averages["avg_specificity"]}%')
+    print(f'->Average Precision: {averages["avg_precision"]}%')
+    print(f'->Average Miss rate: {averages["avg_miss_rate"]}%')
+    print(f'->Average False discovery rate: {averages["avg_fdr"]}%')
+    print(f'->Average False omission rate: {averages["avg_fomr"]}%')
