@@ -2,7 +2,7 @@
  
  -  developed a speech separation model using a baseline [Conv-TasNet](https://arxiv.org/abs/1809.07454) as the generator and a deep convolutional network as the discriminator. <br>
 -  incorporated GAN variants based on the objective functions (Vanilla GAN, Least Squares GAN, and Metric GAN) for model training.<br>
--  established a uniform evaluation framework to compare GAN performance over the baseline model. 
+-  established a uniform evaluation framework to compare each GAN performance over the baseline model. 
  <br><br>
 
 
