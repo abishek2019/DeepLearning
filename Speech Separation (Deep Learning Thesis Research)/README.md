@@ -1,6 +1,6 @@
 <h2>Exploring Speech Separation with Generative Adversarial Networks (GANs)</h2><p> In this research, the speech separation task was performed with the Libri2Mix dataset. Major contributions include:<br><br> 
  -  designed a speech separation model using a Fully-Convolutional Time-Domain Audio Separation Network (Conv-TasNet) as the generator and a deep convolutional network as the discriminator. <br><br>
--  incorporated different GAN variants based on the objective functions, including Vanilla GAN, Least Squares GAN (LSGAN), and Metric GAN, for model training.<br><br>
+-  incorporated different GAN variants based on the objective functions (including Vanilla GAN, Least Squares GAN (LSGAN), and Metric GAN) for model training.<br><br>
 -  developed a uniform comparison framework for comparing and evaluating the performance of GANs over the baseline model (nonGAN). 
 
  <br><br>
