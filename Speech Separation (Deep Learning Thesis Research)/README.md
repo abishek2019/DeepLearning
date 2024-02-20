@@ -5,4 +5,5 @@
 ​
 Results from the baseline model (nonGAN) and each of the GAN models are shown below, which depict small sections of waveforms of a separated source: 
 <p>![alt text](https://github.com/abishek2019/Machine_Learning/blob/main/Speech%20Separation%20(Deep%20Learning%20Thesis%20Research)/assets/Result2.png?raw=true)</p>
+<img src='[https://img.shields.io/badge/Difficulty-Easy-brightgreen](https://github.com/abishek2019/Machine_Learning/blob/main/Speech%20Separation%20(Deep%20Learning%20Thesis%20Research)/assets/Result2.png)https://github.com/abishek2019/Machine_Learning/blob/main/Speech%20Separation%20(Deep%20Learning%20Thesis%20Research)/assets/Result2.png'/>
 <br>
