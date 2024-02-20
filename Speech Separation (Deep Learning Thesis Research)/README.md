@@ -1,40 +1,5 @@
-<h2><a href="https://leetcode.com/problems/fibonacci-number">Fibonacci Number</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>For the solutions provided: <br>- Time complexity is O(n) (since we traverse n times).<br>- Space complexity is O(1) (since only constant space is used by simple variables).</p><b>QUESTION</b><p>The <b>Fibonacci numbers</b>, commonly denoted <code>F(n)</code> form a sequence, called the <b>Fibonacci sequence</b>, such that each number is the sum of the two preceding ones, starting from <code>0</code> and <code>1</code>. That is,</p>
-
-<pre>
-F(0) = 0, F(1) = 1
-F(n) = F(n - 1) + F(n - 2), for n &gt; 1.
-</pre>
-
-<p>Given <code>n</code>, calculate <code>F(n)</code>.</p>
-
-<p>&nbsp;</p>
-<p><strong class="example">Example 1:</strong></p>
-
-<pre>
-<strong>Input:</strong> n = 2
-<strong>Output:</strong> 1
-<strong>Explanation:</strong> F(2) = F(1) + F(0) = 1 + 0 = 1.
-</pre>
-
-<p><strong class="example">Example 2:</strong></p>
-
-<pre>
-<strong>Input:</strong> n = 3
-<strong>Output:</strong> 2
-<strong>Explanation:</strong> F(3) = F(2) + F(1) = 1 + 1 = 2.
-</pre>
-
-<p><strong class="example">Example 3:</strong></p>
-
-<pre>
-<strong>Input:</strong> n = 4
-<strong>Output:</strong> 3
-<strong>Explanation:</strong> F(4) = F(3) + F(2) = 2 + 1 = 3.
-</pre>
-
-<p>&nbsp;</p>
-<p><strong>Constraints:</strong></p>
-
-<ul>
-	<li><code>0 &lt;= n &lt;= 30</code></li>
-</ul>
+<h2>Exploring Speech Separation with GANs</h2> <hr><p> This research explores the performance of Generative Adversarial Networks (GANs) in the speech separation task using Libri2Mix dataset audio clips. A Fully-Convolutional Time-Domain Audio Separation Network (Conv-TasNet) model is used as the generator and a deep convolutional network is used as the discriminator. Different GAN variants based on the objective functions, including Vanilla GAN, Least Squares GAN (LSGAN), and Metric GAN, are incorporated for model training.
+	
+Results from the baseline model and each of the GAN models are shown below, which depict small sections of waveforms of a separated source: 
+<![alt text](https://github.com/abishek2019/Machine_Learning/blob/main/Speech%20Separation%20using%20GANs%20(Thesis%20Research)/assets/Result2.png?raw=true)>
+<br>
