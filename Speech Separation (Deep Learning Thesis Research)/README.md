@@ -7,7 +7,7 @@
 Results from the baseline model and each of the GAN models are shown below (which depicts a small section of the waveform of a separated speech):
 
 <a href="https://github.com/abishek2019/Machine_Learning/blob/main/Speech%20Separation%20(Deep%20Learning%20Thesis%20Research)/assets/Result2.png">
-<img src="https://github.com/abishek2019/Machine_Learning/blob/main/Speech%20Separation%20(Deep%20Learning%20Thesis%20Research)/assets/Result2.png" alt="Alt text" width="400" height="300">
+<img src="https://github.com/abishek2019/Machine_Learning/blob/main/Speech%20Separation%20(Deep%20Learning%20Thesis%20Research)/assets/Result2.png" alt="Alt text" width="600" height="600">
 </a>
 
 
