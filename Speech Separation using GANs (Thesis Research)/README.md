@@ -1,6 +1,8 @@
 <h2>Exploring Speech Separation with GANs</h2> <hr><p> This research explores the performance of Generative Adversarial Networks (GANs) in the speech separation task using Libri2Mix dataset audio clips. A Fully-Convolutional Time-Domain Audio Separation Network (Conv-TasNet) model is used as the generator and a deep convolutional network is used as the discriminator. Different GAN variants based on the objective functions, including Vanilla GAN, Least Squares GAN (LSGAN), and Metric GAN, are incorporated for model training.
 	
-Small sections of waveforms of a separated source from the baseline model and each of the trained GAN models are shown below: <br>- Time complexity is O(n) (since we traverse n times).<br>- Space complexity is O(1) (since only constant space is used by simple variables).</p><b>QUESTION</b><p>The <b>Fibonacci numbers</b>, commonly denoted <code>F(n)</code> form a sequence, called the <b>Fibonacci sequence</b>, such that each number is the sum of the two preceding ones, starting from <code>0</code> and <code>1</code>. That is,</p>
+Small sections of waveforms of a separated source from the baseline model and each of the trained GAN models are shown below: 
+![alt text](https://github.com/abishek2019/Machine_Learning/blob/main/Speech%20Separation%20using%20GANs%20(Thesis%20Research)/assets/Result2.png?raw=true)
+<br>- Time complexity is O(n) (since we traverse n times).<br>- Space complexity is O(1) (since only constant space is used by simple variables).</p><b>QUESTION</b><p>The <b>Fibonacci numbers</b>, commonly denoted <code>F(n)</code> form a sequence, called the <b>Fibonacci sequence</b>, such that each number is the sum of the two preceding ones, starting from <code>0</code> and <code>1</code>. That is,</p>
 
 <pre>
 F(0) = 0, F(1) = 1
