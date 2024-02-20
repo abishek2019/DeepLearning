@@ -3,6 +3,11 @@
 -  incorporated different GAN variants based on the objective functions, including Vanilla GAN, Least Squares GAN (LSGAN), and Metric GAN, for model training.<br><br>
 -  developed a uniform comparison framework for comparing and evaluating the performance of GANs in the speech separation task. 
 ​
+
+
+
+
+
  
 
 Results from the baseline model and each of the GAN models are shown below, which depict small sections of waveforms of a separated source: 
