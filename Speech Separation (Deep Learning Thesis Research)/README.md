@@ -5,7 +5,7 @@
 
  <br><br>
 Results from the baseline model and each of the GAN models are shown below (which depicts a small section of the waveform of a separated speech):
-[![alt text] (/assets/Result2.png)]
+![alt text] (/assets/Result2.png)
 
 
 
