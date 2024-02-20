@@ -1,4 +1,4 @@
-<h2>Exploring Speech Separation with GANs</h2> <hr><p> In this research, I:<br><br> - designed a GAN architecture where a Fully-Convolutional Time-Domain Audio Separation Network (Conv-TasNet) model is used as the generator and a deep convolutional network is used as the discriminator. 
+<h2>Exploring Speech Separation with GANs</h2><p> In this research, I:<br><br> - designed a GAN architecture where a Fully-Convolutional Time-Domain Audio Separation Network (Conv-TasNet) model is used as the generator and a deep convolutional network is used as the discriminator. 
 - incorporated different GAN variants based on the objective functions, including Vanilla GAN, Least Squares GAN (LSGAN), and Metric GAN, for model training.
 - developed a uniform comparison framework for comparing and evaluating the performance of GANs in the speech separation task. 
 ​
